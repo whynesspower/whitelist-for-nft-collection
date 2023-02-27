@@ -1,0 +1,24 @@
+{
+  "name": "whitelist-for-nft-collection",
+  "version": "1.0.0",
+  "description": "You are launching your NFT collection named Crypto Devs. You want to give your early supporters access to a whitelist for your collection, so here you are creating a whitelist dapp for Crypto Devs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whynesspower/whitelist-for-nft-collection.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whynesspower/whitelist-for-nft-collection/issues"
+  },
+  "homepage": "https://github.com/whynesspower/whitelist-for-nft-collection#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.1",
+    "hardhat": "^2.12.7"
+  }
+}
